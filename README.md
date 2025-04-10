@@ -1,4 +1,4 @@
-# Proyecto Bonus #11 – Sistema de Acceso Secreto
+# Proyecto Bonus #2 – Sistema de Acceso Secreto
 
 Una app de consola que protege funciones con un código secreto usando decoradores personalizados en Python.
 
